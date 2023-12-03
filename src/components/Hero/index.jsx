@@ -19,7 +19,7 @@ const Hero = () => {
                     </div>
                     <div className="col-sm-12 col-md-6 d-none d-md-block">
                     <div className="hero-image">
-                        <img src="https://github.com/HillaryLumeno/Project-mid/blob/master/public/img/Hill4.png?raw=true" alt="Hero Image" />
+                        <img src="https://github.com/BrianGustafBirahy/latihan-git/blob/hill/public/img/Hill4.png?raw=true" alt="Hero Image" />
                     </div>
                     </div>
                 </div>

@@ -5,7 +5,7 @@ const About = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6">
                     <div className="about-img">
-                        <img src="/public/img/Hill1.jpg" alt="Image" />
+                        <img src="https://github.com/BrianGustafBirahy/latihan-git/blob/hill/public/img/Hill1.jpg?raw=true" alt="Image" />
                     </div>
                     </div>
                     <div className="col-lg-6">
