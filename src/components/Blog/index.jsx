@@ -10,7 +10,7 @@ const Blog = () => {
                     <div className="col-lg-6">
                     <div className="blog-item wow fadeInUp" data-wow-delay="0.1s">
                         <div className="blog-img">
-                        <img src="/public/img/TouMinahasa.png" alt="Blog" />
+                        <img src="https://github.com/HillaryLumeno/Project-mid/blob/master/public/img/TouMinahasa.png?raw=true" alt="Blog" />
                         </div>
                         <div className="blog-text">
                         <h2>Tou Minahasa</h2>
@@ -30,7 +30,7 @@ const Blog = () => {
                     <div className="col-lg-6">
                     <div className="blog-item wow fadeInUp" data-wow-delay="0.3s">
                         <div className="blog-img">
-                        <img src="/public/img/Quantum.png" alt="Blog" />
+                        <img src="https://github.com/HillaryLumeno/Project-mid/blob/master/public/img/Quantum.png?raw=true" alt="Blog" />
                         </div>
                         <div className="blog-text">
                         <h2>Panitia QUANTUM PARADISE</h2>
